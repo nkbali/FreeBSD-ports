@@ -5,7 +5,7 @@ PORTNAME=	xen-guest-tools
 PORTVERSION=	4.6.1
 PORTREVISION=	2
 CATEGORIES=	sysutils
-MASTER_SITES=	https://downloads.xenproject.org/release/xen/4.6.1/${PORTVERSION}/
+MASTER_SITES=	https://downloads.xenproject.org/release/xen/${PORTVERSION}/
 DISTNAME=	xen-${PORTVERSION}
 
 MAINTAINER=	dinoex@FreeBSD.org

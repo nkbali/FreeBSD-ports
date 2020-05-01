@@ -5,7 +5,7 @@ PORTNAME=	broccoli
 PORTVERSION=	1.101
 PORTEPOCH=	1
 CATEGORIES=	security
-MASTER_SITES=	https://www.zeek.org/downloads/
+MASTER_SITES=	http://ftp2.za.freebsd.org/pub/FreeBSD/ports/distfiles/
 DISTNAME=	bro-2.6.1
 
 MAINTAINER=	leres@FreeBSD.org
