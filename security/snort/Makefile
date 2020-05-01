@@ -4,7 +4,7 @@
 PORTNAME=	snort
 PORTVERSION=	2.9.15.1
 CATEGORIES=	security
-MASTER_SITES=	https://snort.org/downloads/snort/ \
+MASTER_SITES=	http://ftp2.za.freebsd.org/pub/FreeBSD/ports/distfiles/ \
 		ZI
 
 PATCH_DIST_STRIP=	-p1
