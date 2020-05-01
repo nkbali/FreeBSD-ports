@@ -5,8 +5,7 @@ PORTNAME=	daq
 PORTVERSION=	2.2.2
 PORTREVISION=	1
 CATEGORIES=	net
-MASTER_SITES=	https://snort.org/downloads/snortplus/ \
-		ZI
+MASTER_SITES=	http://ftp2.za.freebsd.org/pub/FreeBSD/ports/distfiles/
 
 MAINTAINER=	zi@FreeBSD.org
 COMMENT=	Data Acquisition abstraction library for snort 2.9+

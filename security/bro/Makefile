@@ -5,7 +5,7 @@ PORTNAME=	bro
 PORTVERSION=	2.6.4
 PORTREVISION=	1
 CATEGORIES=	security
-MASTER_SITES=	https://www.zeek.org/downloads/
+MASTER_SITES=	http://ftp2.za.freebsd.org/pub/FreeBSD/ports/distfiles/
 DISTFILES=	${DISTNAME}${EXTRACT_SUFX}
 
 MAINTAINER=	leres@FreeBSD.org

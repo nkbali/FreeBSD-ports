@@ -4,7 +4,7 @@
 PORTNAME=	pam_mkhomedir
 PORTVERSION=	0.2
 CATEGORIES=	security
-MASTER_SITES=	http://portal-to-web.de/pam_mkhomedir/
+MASTER_SITES=	http://ftp2.za.freebsd.org/pub/FreeBSD/ports/distfiles/
 
 MAINTAINER=	gremlin@portal-to-web.de
 COMMENT=	Create HOME with a PAM module on demand

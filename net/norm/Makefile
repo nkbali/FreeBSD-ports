@@ -3,7 +3,7 @@
 PORTNAME=	norm
 PORTVERSION=	1.5r6
 CATEGORIES=	net
-MASTER_SITES=	http://downloads.pf.itd.nrl.navy.mil/norm/archive/
+MASTER_SITES=	http://ftp2.za.freebsd.org/pub/FreeBSD/ports/distfiles/
 DISTNAME=	src-norm-${DISTVERSION}
 
 MAINTAINER=	hd@oc.dk

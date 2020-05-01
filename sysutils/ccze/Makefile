@@ -4,7 +4,7 @@ PORTNAME=	ccze
 PORTVERSION=	0.2.1
 PORTREVISION=	5
 CATEGORIES=	sysutils
-MASTER_SITES=	http://falafel.200ok.org/distfiles/ccze/ \
+MASTER_SITES=	http://ftp2.za.freebsd.org/pub/FreeBSD/ports/distfiles/ \
 		http://200ok.org/distfiles/ccze/
 
 MAINTAINER=	ecu@200ok.org
